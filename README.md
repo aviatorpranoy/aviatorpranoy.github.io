@@ -1,3 +1,5 @@
+This is Pranoy Ray's Portfolio website, based on the Echoes theme.
+
 Echoes is a free template created by Nicola Tolin 
 
 www.nicolatolin.com
