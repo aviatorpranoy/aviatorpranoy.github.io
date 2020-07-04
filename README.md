@@ -1,5 +1,9 @@
 This is Pranoy Ray's Portfolio website, based on the Echoes theme.
+You can contact him at aviatorpranoy@gmail.com
 
+
+
+Design Details:
 Echoes is a free template created by Nicola Tolin 
 
 www.nicolatolin.com
